@@ -34,6 +34,12 @@ El contenido del archivo de configuración es el siguiente:
 
 Este archivo es esencial para el funcionamiento de la aplicación. Cuando la aplicación está en ejecución, cualquier cambio en el directorio actual se guardará automáticamente en este archivo.
 
+# Clasificacion
+ 
+ * A Archivos
+ * C Carpeta
+ * Win Archivo de windows
+
 ## Licencia
 
 PyExplorer está licenciado bajo la licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
