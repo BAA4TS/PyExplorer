@@ -1,5 +1,3 @@
-Aquí tienes una versión mejorada del README:
-
 # PyExplorer
 
 PyExplorer es un administrador de archivos simple hecho en Python con una interfaz gráfica basada en `tkinter` y `ttkbootstrap`.
